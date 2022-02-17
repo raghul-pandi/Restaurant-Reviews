@@ -35,9 +35,8 @@ You can check out the project presentation to get a gist of the project.
 To set up this project, you will need the following tools:
 
   1. SQL Server Management Studio
-  2.Tableau[review-data.xlsx](https://github.com/raghul-pandi/Restaurant-Reviews/files/8085294/review-data.xlsx)
-
-  3.Microsoft Powerpoint
+  2. Tableau
+  3. Microsoft Powerpoint
 
 After installing the above mentioned software, you can run the DDL file in order to create tables and insert the data. Once the tables are created and data is inserted, You can run the DML file to see the views in order to solve the mission statements. The dashboard Can be accessed using Tableau.
 
