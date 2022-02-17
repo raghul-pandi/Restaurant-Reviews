@@ -11,7 +11,8 @@ The aim of this project is to analyze the reviews and tips given by customers to
   4. To find the  the best affordable restaurants around College Park.
 
 ## Data Sources ##
-The data was gathered from the following sources: Tripadvisor.com
+* The data was gathered from Tripadvisor.com (https://developer-tripadvisor.com/content-api/documentation/location/)
+* All data was not from College Park, so we have manually scrapped from the TripAdvisor website for some businesses/restaurants that are local
 
 ## Files ##
 
