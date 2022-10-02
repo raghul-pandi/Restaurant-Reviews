@@ -2,7 +2,7 @@
 
 ## Introduction ##
 
-The aim of this project is to analyze the reviews and tips given by customers to evaluate restaurants in and around the College Park area. This will further help the business to improve customer satisfaction based on the feedback provided.
+The aim of this project is to analyze the reviews given by customers to evaluate restaurants in and around the College Park area. This will further help the business to improve customer satisfaction based on the feedback provided.
 
 ## Mission Objectives ##
   1. To determine the restaurants with highest customer rating.
